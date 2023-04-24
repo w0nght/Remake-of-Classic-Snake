@@ -1,5 +1,4 @@
 /*! p5.js v0.9.0 July 01, 2019 */
-/* showing how to Git */
 (function(f) {
   if (typeof exports === 'object' && typeof module !== 'undefined') {
     module.exports = f();
